@@ -34,3 +34,4 @@
 @@||opensubtitles-v3.strem.io^$important
 @@||2ecbbd610840-opensubtitles.baby-beamup.club^$important
 @@||torrentio.strem.fun^$important
+@@||www.strem.io^$important
