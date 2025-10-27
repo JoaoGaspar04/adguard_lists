@@ -35,3 +35,4 @@
 @@||2ecbbd610840-opensubtitles.baby-beamup.club^$important
 @@||torrentio.strem.fun^$important
 @@||www.strem.io^$important
+@@||cinemeta-live.strem.io^$important
