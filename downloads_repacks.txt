@@ -1,6 +1,0 @@
-@@||massgrave.dev^$important
-@@||www.massgrave.dev^$important
-@@||www.fitgirl-repacks.site^$important
-@@||mediafire.com^$important
-@@||*.mediafire.com^$important
-@@*mediafire*$important

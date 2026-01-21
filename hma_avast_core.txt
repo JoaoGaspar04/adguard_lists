@@ -1,8 +1,0 @@
-@@||hidemyass.com^$important
-@@||hmavpn.com^$important
-@@||ncc.avast.com^$important
-@@||ip-info.ff.avast.com^$important
-@@||shepherd.avcdn.net^$important
-@@||ipm-provider.ff.avast.com^$important
-@@||ipmcdn.avast.com^$important
-@@||analytics.ff.avast.com^

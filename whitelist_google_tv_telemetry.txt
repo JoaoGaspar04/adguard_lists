@@ -1,0 +1,9 @@
+@@||firebaselogging.googleapis.com^
+@@||firebaselogging-pa.googleapis.com^
+@@||androidtvchannels-pa.googleapis.com^
+@@||androidtvwatsonfe-pa.googleapis.com^$important
+@@||beacons.gvt2.com^
+@@||firebase-settings.crashlytics.com^$important
+@@||region1.app-measurement.com^$important
+@@||sdk-api-v1.singular.net^$important
+@@||mobile.events.data.microsoft.com^$important

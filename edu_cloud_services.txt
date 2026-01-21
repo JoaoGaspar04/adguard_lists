@@ -1,3 +1,0 @@
-@@||learner.coursera.help^$important
-@@||www.coursera.support^$important
-@@||console-telemetry.oci.oraclecloud.com^$important
